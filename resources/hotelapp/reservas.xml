@@ -1,0 +1,31 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<reservas>
+    <habitacion>
+        <numero>101</numero>
+        <tipo>Individual</tipo>
+        <precio>45.00</precio>
+        <estado>disponible</estado>
+    </habitacion>
+
+    <habitacion>
+        <numero>102</numero>
+        <tipo>Doble</tipo>
+        <precio>70.00</precio>
+        <estado>ocupada</estado>
+    </habitacion>
+
+    <habitacion>
+        <numero>103</numero>
+        <tipo>Suite</tipo>
+        <precio>120.00</precio>
+        <estado>disponible</estado>
+    </habitacion>
+
+    <habitacion>
+        <numero>104</numero>
+        <tipo>Doble</tipo>
+        <precio>80.00</precio>
+        <estado>ocupada</estado>
+    </habitacion>
+</reservas>
